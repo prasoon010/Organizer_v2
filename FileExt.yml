@@ -1,0 +1,66 @@
+---
+Documents:
+ - doc
+ - docx
+ - htm
+ - html
+ - ppt
+ - pptx
+ - xls
+ - xlsx
+ - ods
+ - txt
+ - pdf
+ - csv
+
+Music:
+ - mp3
+ - aac
+ - ogg
+ - wav
+ - pcm
+ - aiff
+ - flac
+ - wma
+ - m4a
+
+Archives:
+ - zip
+ - tar
+ - gz
+ - bz2
+ - rar
+ - 7z
+
+Video:
+ - avi
+ - mp4
+ - mkv
+ - 3gp
+ - flv
+ - mov
+ - swf
+ - wmv
+ - divx
+ - mpeg
+ 
+ISO_files:
+ - iso
+
+Bash_scripts:
+ - sh
+
+Python_scripts:
+ - py
+
+Images:
+ - png
+ - jpg
+ - tiff
+ - gif
+ - jpeg
+ - raw
+
+
+
+
